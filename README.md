@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaneshTadi
-- 👀 I’m interested in Learnig new Technologies
+- 👀 I am eager to expand my knowledge and skills by learning new technologies.
 - 🌱 I’m currently learning DSA
 
 <!---

@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GaneshTadi
 - 👀 I am eager to expand my knowledge and skills by learning new technologies.
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently Working as software developer
+
 
 <!---
 GaneshTadi/GaneshTadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

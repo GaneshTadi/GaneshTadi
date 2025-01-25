@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaneshTadi
 - 👀 I am eager to expand my knowledge and skills by learning new technologies.
-- 🌱 I’m currently Working as software developer
+- 🌱 I’m currently Working as Lead developer
 
 
 <!---
